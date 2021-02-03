@@ -397,7 +397,7 @@ img{
     display: none;
   }
   .nav__link{
-    color: var(--second-color);
+    color: white;
   }
 
   .home{
