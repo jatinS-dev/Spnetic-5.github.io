@@ -145,10 +145,11 @@ img{
 }
 .nav__item{
   margin-bottom: var(--mb-4);
+  color: #fff;
 }
 .nav__link{
   position: relative;
-  color: rgb(0, 0, 0);
+  color: rgb(253, 253, 253);
 }
 .nav__link:hover{
   position: relative;
