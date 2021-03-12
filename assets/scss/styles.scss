@@ -357,7 +357,23 @@ img {
     height: 700px;
     width: 700px;
     margin-left: 425px;
+    overflow: hidden;
     /* justify-self: center; */
+}
+
+.edu {
+    &__img {
+        box-shadow: 0px 4px 25px rgba(14, 36, 49, 0.15);
+        border-radius: .5rem;
+        overflow: hidden;
+        & img {
+            transition: 1s;
+            cursor: pointer;
+            &:hover {
+                transform: scale(1.1);
+            }
+        }
+    }
 }
 
 
