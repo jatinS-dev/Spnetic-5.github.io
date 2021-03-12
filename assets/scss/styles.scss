@@ -164,7 +164,7 @@ img {
             width: 80%;
             height: 100%;
             padding: 2rem;
-            background-color: white;
+            background-color: var(--second-color);
             transition: .5s;
         }
     }
@@ -346,33 +346,6 @@ img {
     }
     &__img {
         border-radius: .5rem;
-    }
-}
-
-
-/* ===== EDUCATION =====*/
-
-.edu__img {
-    align-self: center;
-    height: 700px;
-    width: 700px;
-    margin-left: 425px;
-    overflow: hidden;
-    /* justify-self: center; */
-}
-
-.edu {
-    &__img {
-        box-shadow: 0px 4px 25px rgba(14, 36, 49, 0.15);
-        border-radius: .5rem;
-        overflow: hidden;
-        & img {
-            transition: 1s;
-            cursor: pointer;
-            &:hover {
-                transform: scale(1.1);
-            }
-        }
     }
 }
 
