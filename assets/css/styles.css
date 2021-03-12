@@ -386,14 +386,12 @@ img {
 /* ===== EDUCATION =====*/
 
 .edu__img {
-    margin: 0;
-    padding: 0;
-    align-self: center;
-    height: 700px;
-    width: 700px;
-    margin-left: 425px;
-    margin-bottom: 0;
-    /* justify-self: center; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    /* height: 700px;
+    width: 700px; */
 }
 
 
