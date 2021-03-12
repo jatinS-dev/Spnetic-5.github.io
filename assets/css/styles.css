@@ -362,20 +362,20 @@ img {
     z-index: var(--z-back);
 }
 
-.skills__html {
+.skills__python {
     width: 95%;
 }
 
 .skills__css {
-    width: 85%;
+    width: 75%;
 }
 
-.skills__js {
-    width: 65%;
+.skills__c {
+    width: 80%;
 }
 
 .skills__ux {
-    width: 85%;
+    width: 70%;
 }
 
 .skills__img {
