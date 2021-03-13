@@ -418,6 +418,15 @@ img {
     transform: scale(1.1);
 }
 
+.exp-title {
+    position: relative;
+    font-size: var(--h3-font-size);
+    color: rgb(125, 240, 255);
+    margin-top: var(--mb-2);
+    margin-bottom: var(--mb-2);
+    text-align: center;
+}
+
 
 /* ===== CONTACT =====*/
 
