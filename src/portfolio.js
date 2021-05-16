@@ -10,7 +10,7 @@ const greeting = {
     username: "Saurabh P",
     title: "Hi all, I'm Saurabh Powar",
     subTitle: emoji(
-        "AI/ML Enthusiast & Passionate Full Stack Python Developer 🚀 having an keen interests in Machine learning, Deep learning, Building web apps with Flask/Django and some other cool libraries and frameworks."
+        "AI Enthusiast & Passionate Full Stack Python Developer 🚀 having an keen interests in Machine learning, Deep learning, Building web apps with Flask/Django and some other cool libraries and frameworks."
     ),
     resumeLink: "https://drive.google.com/file/d/1KvR11x6M5YPZEUzLKdzDi57sIcMNIGCf/view?usp=sharing",
     displayGreeting: true // Set false to hide this section, defaults to true
